@@ -9,12 +9,15 @@ EditorBuildSettings:
     path: Assets/Scenes/FirstScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/SecondScene.unity
-    guid: e21c2ea66e00eee4a9f55c0d2235c7ad
-  - enabled: 1
     path: Assets/Scenes/FadeInandOut.unity
     guid: c7307664b80e84c42a288cb108657546
   - enabled: 1
-    path: Assets/Scenes/sub.unity
-    guid: 521e7c44eed2063438075fc0ba3ebbb3
+    path: Assets/Scenes/Menu.unity
+    guid: 109012bfb062db945ba09c89ef75dcd7
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 2674691189141cc46ac1479e005d2ad3
+  - enabled: 1
+    path: Assets/Scenes/ScrollMenu.unity
+    guid: c669a889014a20c429615d926032bb87
   m_configObjects: {}
